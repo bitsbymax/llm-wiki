@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.env
+
+# Obsidian volatile state & heavy local indexes
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/copilot-index-*.json
+.obsidian/cache
+.trash/
